@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellingTest", "SpellingTest\SpellingTest.csproj", "{A0A533D5-4824-49D8-B89C-44CF430C1713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellingTestUITests", "SpellingTestUITests\SpellingTestUITests.csproj", "{48C445C7-9958-4754-B66B-2EE7163234A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellingTestTests", "SpellingTestTests\SpellingTestTests.csproj", "{DCCDFDB7-F0E4-4528-8FC9-95C1193F6CBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0A533D5-4824-49D8-B89C-44CF430C1713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A533D5-4824-49D8-B89C-44CF430C1713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A533D5-4824-49D8-B89C-44CF430C1713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A533D5-4824-49D8-B89C-44CF430C1713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C445C7-9958-4754-B66B-2EE7163234A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C445C7-9958-4754-B66B-2EE7163234A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C445C7-9958-4754-B66B-2EE7163234A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C445C7-9958-4754-B66B-2EE7163234A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCCDFDB7-F0E4-4528-8FC9-95C1193F6CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCDFDB7-F0E4-4528-8FC9-95C1193F6CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCDFDB7-F0E4-4528-8FC9-95C1193F6CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCDFDB7-F0E4-4528-8FC9-95C1193F6CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
